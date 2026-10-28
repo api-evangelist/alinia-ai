@@ -64,6 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Alinia Ai is a company surfaced as a portfolio company of speedinvest and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Alinia is an AI compliance and control platform that helps enterprises deploy large language models and AI agents safely and in compliance with regulations, making AI systems "compliant by design" through regulation-informed control layers. The platform is built around three products: an Evaluation Engine that tests AI systems against company policies and regulatory standards (compliance red teaming), Guardrails that enforce compliance in real time — including a proprietary multilingual RAG Guard model that blocks hallucinations and irrelevance — and Monitoring that provides automated auditing, full traceability, and compliance reporting of AI activity. Alinia is model-agnostic and multilingual, targeting financial services, healthcare, and other heavily regulated industries, with named customers including Banco Santander and Origin Financial. The company was co-founded by Ariadna (CEO, previously Head of ML Platform at Twitter and Director of Development at IBM Watson) and Carlos (COO, previously AI Counsel at Hugging Face), operates offices in Barcelona, Valencia, New York, and Pittsburgh, and is backed by Speedinvest. Added to the API Evangelist network as a portfolio lead; no public API, OpenAPI, or developer portal is currently published.
 
-Backed by: speedinvest
+**Areas:** Company · Artificial Intelligence · AI Safety · AI Compliance · Guardrails · LLM · Governance · Monitoring · RegTech
+
+## Alinia Ai on APIs.io
+
+Everything profiled for Alinia Ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/alinia-ai/](https://apis.io/providers/alinia-ai/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Alinia Ai Domain Security](https://apis.io/security/alinia-ai/alinia-ai-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://alinia.ai)
+- [Blog](https://alinia.ai/blog/)
+- [Trust centre](https://trust.alinia.ai/)
+- [Privacy policy](https://alinia.ai/privacy-policy-2/)
+
+## API Evangelist rating
+
+**Kin Score 8.8** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 18.4 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/alinia-ai/](https://apis.io/providers/alinia-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Alinia Ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/alinia-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
